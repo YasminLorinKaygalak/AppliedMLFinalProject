@@ -36,4 +36,31 @@ This project presents a comprehensive machine learning pipeline for detecting fa
 | Naïve Bayes            | 93.3%    | 0.929    |
 
 ## 📂 Project Structure
+📁 fake-news-detection/
+├── data/ # Dataset files (True.csv, Fake.csv)
+├── models/ # Trained models and configs
+├── notebooks/ # Jupyter notebooks for exploration
+├── scripts/ # Training and evaluation scripts
+├── results/ # Confusion matrices, plots, logs
+├── presentation/ # Final presentation slides
+└── README.md # Project overview
+
+
+## 🧠 Future Work
+
+- Implement and evaluate LSTM and transformer-based models (e.g., BERT).
+- Perform cross-validation and hyperparameter optimization (e.g., GridSearchCV).
+- Explore larger and more diverse datasets to test model generalization.
+
+## 👥 Authors
+
+- **Yasmin Lorin Kaygalak** – Feature engineering, model implementation, TF-IDF & Word2Vec pipelines, reporting.
+- **Natalie Bohmbach** – Data cleaning, neural network implementation (MLP, RNN), exploratory analysis, presentation design.
+- **Dr. Justin DeBenedetto** – Project advisor and course instructor.
+
+## 📝 License
+
+This project is for academic and research purposes. For external use, please cite accordingly or contact the authors.
+
+
 
