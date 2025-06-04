@@ -41,15 +41,5 @@ This project presents a comprehensive machine learning pipeline for detecting fa
 - Perform cross-validation and hyperparameter optimization (e.g., GridSearchCV).
 - Explore larger and more diverse datasets to test model generalization.
 
-## 👥 Authors
-
-- **Yasmin Lorin Kaygalak** – Feature engineering, model implementation, TF-IDF & Word2Vec pipelines, reporting.
-- **Natalie Bohmbach** – Data cleaning, neural network implementation (MLP, RNN), exploratory analysis, presentation design.
-- **Dr. Justin DeBenedetto** – Project advisor and course instructor.
-
-## 📝 License
-
-This project is for academic and research purposes. For external use, please cite accordingly or contact the authors.
-
 
 
