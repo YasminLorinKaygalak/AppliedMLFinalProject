@@ -35,17 +35,6 @@ This project presents a comprehensive machine learning pipeline for detecting fa
 | Logistic Regression    | 98.9%    | 0.988    |
 | Naïve Bayes            | 93.3%    | 0.929    |
 
-## 📂 Project Structure
-📁 fake-news-detection/
-├── data/ # Dataset files (True.csv, Fake.csv)
-├── models/ # Trained models and configs
-├── notebooks/ # Jupyter notebooks for exploration
-├── scripts/ # Training and evaluation scripts
-├── results/ # Confusion matrices, plots, logs
-├── presentation/ # Final presentation slides
-└── README.md # Project overview
-
-
 ## 🧠 Future Work
 
 - Implement and evaluate LSTM and transformer-based models (e.g., BERT).
